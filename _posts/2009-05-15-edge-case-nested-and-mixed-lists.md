@@ -1,59 +1,69 @@
 ---
 layout: post
-title: "Edge Case: Nested and Mixed Lists"
+title: "Linux: Learning the terminal"
 categories:
-  - Edge Case
+  - Blog
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
-last_modified_at: 2017-03-09T14:25:52-05:00
+  - linux
+last_modified_at: 2020-05-03
 ---
 
-Nested and mixed lists are an interesting beast. It's a corner case to make sure that lists within lists do not break the ordered list numbering order and list styles go deep enough.
+Some basic/essential commands are listed here to get started with linux.
 
-## Ordered -- Unordered -- Ordered
+You can use TAB for auto completion of a command or files/directories name, double TAB to see available options for auto completion. Also, files/directories are case sensitive,
 
-1. ordered item
-2. ordered item
-  * **unordered**
-  * **unordered**
-    1. ordered item
-    2. ordered item
-3. ordered item
-4. ordered item
+cd Desktop/ and cd desktop/ are different things.
 
-## Ordered -- Unordered -- Unordered
+File System Commands
 
-1. ordered item
-2. ordered item
-  * **unordered**
-  * **unordered**
-    * unordered item
-    * unordered item
-3. ordered item
-4. ordered item
+    pwd — print working directory
+    cd — change directory
+    cd .. — go one directory back
+    ls — list
+    ls -la — list hidden files/folders, also shows permissions and more
+    cp — copy
+    mv — move
+    rm — remove
+    mkdir — make directory
+    rmdir — remove directory
+    rmdir -rf — remove directory with contents
+    touch — create a file
+    cat — view contents of files
+    echo “hello” > hi.txt — create/overwrite a file (hi.txt) with hello as content
+    echo “hello” >> hi.txt — append to file (hi.txt) with hello as content
+    nano/vi/vim — terminal based text editors
+    find/locate/whereis — search for files and binaries
+    man — open manual page
 
-## Unordered -- Ordered -- Unordered
+Users and Privileges
 
-* unordered item
-* unordered item
-  1. ordered
-  2. ordered
-    * unordered item
-    * unordered item
-* unordered item
-* unordered item
+    There are 3 groups — owner, members of owners’ group, other users.
+    chmod — change mode (set permission)
+    adduser — add a new user
+    /etc/passwd file contains available users in the system.
+    /etc/shadow file contains hashed passwords for available users.
+    su — switch user
+    passwd — change password
 
-## Unordered -- Unordered -- Ordered
+Network commands
 
-* unordered item
-* unordered item
-  * unordered
-  * unordered
-    1. **ordered item**
-    2. **ordered item**
-* unordered item
-* unordered item
+    ifconfig — interface configuration
+    iwconfig — dedicated to wireless networking interfaces
+    ping — checks if a host can accept packets
+    arp -a — displays ip address and mac address associated
+    netstat -ano — displays active connections
+
+Service commands
+
+    service apache2 start — start an apache server
+    python -m SimpleHTTPServer 80 — start a python server on port 80
+    sysctl enable postgresql — starts postgresql on boot
+
+Go to a directory and start python SimpleHTTPServer to start a python server with the present working directory as the home directory for the server. This can replace apache server where default home directory for the server is /var/www/html
+Installing and Updating Tools
+
+    apt update && apt upgrade — update and upgrade
+    apt install wpscan — install tool (wpscan)
+    git clone — clone a github directory to the system
+
+Let me know if you find any **mistake** and **suggestions** are appreciated.
