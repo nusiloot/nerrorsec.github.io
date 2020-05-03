@@ -1,6 +1,11 @@
 ---
 layout: post
 title: "Linux: Learning the terminal"
+categories:
+  - Tutorials
+tags:
+  - linux
+last_modified_at: 2020-05-03
 ---
 
 Some basic/essential commands are listed here to get started with linux.
