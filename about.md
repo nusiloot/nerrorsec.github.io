@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hi. I am nerrorsec. Wannabe | Alive<br>
+  Hi. I am nerrorsec.
   Available at:<br>
   <a href="https://twitter.com/nerrorsec">Twitter</a><br>
   <a href="https://github.com/nerrorsec">Github</a><br>
