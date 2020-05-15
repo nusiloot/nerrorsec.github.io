@@ -44,7 +44,9 @@ sidebar_link: true
     <img src="https://raw.githubusercontent.com/nerrorsec/nerrorsec.github.io/master/assets/images/helped_secure/alibaba.png" alt="Samsung" style="width:200px;height:200px;"> 
   </div>
 </div>
+<div class="column>"
   <h3>and 20+ more companies</h3>
+</div>
   
 </p>
 
