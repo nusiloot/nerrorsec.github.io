@@ -18,6 +18,8 @@ sidebar_link: true
 
 <p class="message">
   <center><h2>Helped Secure</h2></center>
+   <img src="https://github.com/nerrorsec/nerrorsec.github.io/blob/master/assets/images/helped_secure/samsung.png" alt="Samsung" style="width:150px;height:150px;"> 
+  
 </p>
 
 <p class="message">
