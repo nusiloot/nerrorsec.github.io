@@ -16,10 +16,34 @@ sidebar_link: true
   <center><h2>Certifications</h2></center>
 </p>
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
 <p class="message">
   <center><h2>Helped Secure</h2></center>
-   <img src="https://raw.githubusercontent.com/nerrorsec/nerrorsec.github.io/master/assets/images/helped_secure/samsung.png" alt="Samsung" style="width:200px;height:200px;">
-  <img src="https://raw.githubusercontent.com/nerrorsec/nerrorsec.github.io/master/assets/images/helped_secure/alibaba.png" alt="Samsung" style="width:200px;height:200px;"> 
+  <div class="row">
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/nerrorsec/nerrorsec.github.io/master/assets/images/helped_secure/samsung.png" alt="Samsung" style="width:200px;height:200px;">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/nerrorsec/nerrorsec.github.io/master/assets/images/helped_secure/alibaba.png" alt="Samsung" style="width:200px;height:200px;"> 
+  </div>
+</div>
   <h3>and 20+ more companies</h3>
   
 </p>
