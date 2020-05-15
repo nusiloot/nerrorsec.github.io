@@ -31,6 +31,10 @@ sidebar_link: true
 </p>
 
 <p class="message">
+  <script src="https://tryhackme.com/badge/21223"></script>
+  </p>
+
+<p class="message">
   <center><h2>Certifications</h2></center>
   <div class="row">
   <div class="column">
