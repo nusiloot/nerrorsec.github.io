@@ -14,3 +14,7 @@ sidebar_link: true
 <p>
 <script src="https://tryhackme.com/badge/21223"></script>
 </p>
+
+<p class="message">
+<h2>Certifications</h2>
+</p>
