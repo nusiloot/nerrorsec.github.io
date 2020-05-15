@@ -34,10 +34,11 @@ sidebar_link: true
   <center><h2>Certifications</h2></center>
   <div class="row">
   <div class="column">
-    <img src="https://training.fortinet.com/pluginfile.php/1/badges/badgeimage/25/f1" alt="Samsung" style="width:200px;height:200px;">
+    <img src="https://training.fortinet.com/pluginfile.php/1/badges/badgeimage/25/f1" alt="Samsung" style="width:100px;height:100px;">
   </div>
   <div class="column">
-    <img src="https://training.fortinet.com/pluginfile.php/1/badges/badgeimage/24/f1" alt="Samsung" style="width:200px;height:200px;"> 
+    <img src="https://training.fortinet.com/pluginfile.php/1/badges/badgeimage/24/f1" alt="Samsung" style="width:100px;height:100px;"> 
+  </div>
   </div>
 </p>
 
