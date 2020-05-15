@@ -4,18 +4,6 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hi. I am nerrorsec.
-  Available at:<br>
-  <a href="https://twitter.com/nerrorsec">Twitter</a><br>
-  <a href="https://github.com/nerrorsec">Github</a><br>
-  <a href="https://nirajkhatiwada.com.np">Blog</a><br>
-</p>
-
-<p class="message">
-  <center><h2>Certifications</h2></center>
-</p>
-
 <style>
 * {
   box-sizing: border-box;
@@ -35,6 +23,18 @@ sidebar_link: true
 </style>
 
 <p class="message">
+  Hi. I am nerrorsec.
+  Available at:<br>
+  <a href="https://twitter.com/nerrorsec">Twitter</a><br>
+  <a href="https://github.com/nerrorsec">Github</a><br>
+  <a href="https://nirajkhatiwada.com.np">Blog</a><br>
+</p>
+
+<p class="message">
+  <center><h2>Certifications</h2></center>
+</p>
+
+<p class="message">
   <center><h2>Helped Secure</h2></center>
   <div class="row">
   <div class="column">
@@ -44,18 +44,23 @@ sidebar_link: true
     <img src="https://raw.githubusercontent.com/nerrorsec/nerrorsec.github.io/master/assets/images/helped_secure/alibaba.png" alt="Samsung" style="width:200px;height:200px;"> 
   </div>
 </div>
-<div class="column>"
-  <h3>and 20+ more companies</h3>
-</div>
-  
+  <h3>and 20+ more companies</h3> 
 </p>
 
 <p class="message">
   <center><h2>CVE's</h2></center>
+  <h3>CVE 2019-16683 (Xoops)</h3>
+  <h3>CVE 2019-16684 (Xoops)</h3>
+  <h3>CVE 2019-20550 (Samsung Mobile)</h3>
 </p>
 
 <p class="message">
   <center><h2>Acknowledgements</h2></center>
+  <div class="row">
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/nerrorsec/nerrorsec.github.io/master/assets/images/acknowledgements/asrc.png" alt="Samsung" style="width:200px;height:200px;">
+  </div>
+</div>
 </p>
 
 
