@@ -7,5 +7,5 @@ if(event.origin === ‘chat.nirajkhatiwada.com.np’) {
   alert('Hi! L0L')
 
   
-  iframe1.contentWindow.postMessage(“Hello world”,”http://
-www.example.com”);
+  iframe1.contentWindow.postMessage("Hello world","http://
+www.example.com");
