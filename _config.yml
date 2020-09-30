@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            nerrorsec
+title:            nerrorsec#NSL
 #tagline:          ''
 #description:      ''
 url:              https://nerrorsec.github.io
@@ -15,8 +15,8 @@ baseurl:          '/'
                   # sidebar_blog_link below.
 
 author:
-  name:           'nerrorsec'
-  url:            https://twitter.com/nerrorsec
+  name:           'Team NSL'
+  url:            https://www.facebook.com/nslcrew
 
 paginate:         5
 # paginate_path:    '/page:num'
