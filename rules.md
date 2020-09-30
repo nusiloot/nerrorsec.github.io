@@ -9,4 +9,5 @@ sidebar_link: true
   2. Point out mistakes or anything that doesn't feel right to you<br>
   3. Give suggestions if you have
 </p>
+
 This site is managed by [nslcrew](https://www.facebook.com/nslcrew/)
