@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            nerrorsec#NSL
+title:            nerrorsec
 #tagline:          ''
 #description:      ''
 url:              https://nerrorsec.github.io
