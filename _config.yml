@@ -15,7 +15,7 @@ baseurl:          '/'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Team NSL'
+  name:           'nslcrew'
   url:            https://www.facebook.com/nslcrew
 
 paginate:         5
