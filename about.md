@@ -35,8 +35,10 @@ sidebar_link: true
   </p>
   
 <p class="message">
-  <script src="https://pentesterlab.com/profile/nerrorsec
-"></script>
+<a href="https://pentesterlab.com/profile/nerrorsec">
+         <img alt="Pentesterlab" src="https://assets.pentesterlab.com/logo.png"
+         width=150" height="70">
+      </a>
   </p>
 
 <p class="message">
