@@ -31,12 +31,14 @@ sidebar_link: true
 </p>
 
 <p class="message">
+<a href="https://pentesterlab.com/profile/nerrorsec"> <img alt="Pentesterlab" src="https://assets.pentesterlab.com/logo.png" width="50" height="80"> </a>
+</p>
+
+<p class="message">
   <script src="https://tryhackme.com/badge/21223"></script>
   </p>
   
-<p class="message">
-<a href="https://pentesterlab.com/profile/nerrorsec"> <img alt="Pentesterlab" src="https://assets.pentesterlab.com/logo.png" width="150" height="70"> </a>
-</p>
+
 
 <p class="message">
   <center><h2>Certifications</h2></center>
