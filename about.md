@@ -33,6 +33,11 @@ sidebar_link: true
 <p class="message">
   <script src="https://tryhackme.com/badge/21223"></script>
   </p>
+  
+<p class="message">
+  <script src="https://pentesterlab.com/profile/nerrorsec
+"></script>
+  </p>
 
 <p class="message">
   <center><h2>Certifications</h2></center>
