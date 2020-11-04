@@ -17,10 +17,11 @@ Both bug bounty hunters and the companies benefit from bug bounty programs. Stil
 
 1. Start a bug bounty program (coz everybody's doin')
 
-A fine morning I found an exposed .git directory on a public bug bounty program. According to stackoverflow , it is a folder that contains all the information necessary for your project in version control and all the information about commits, remote repository address, etc. With this, I could download and extract the source code of the project in the .git directory including the previous versions as it also contains a log that stores the commit history so that we can roll back to history. Thanks to ![GitTools](https://github.com/internetwache/GitTools), for automating the process.
+A fine morning I found an exposed .git directory on a public bug bounty program. According to stackoverflow , it is a folder that contains all the information necessary for your project in version control and all the information about commits, remote repository address, etc. With this, I could download and extract the source code of the project in the .git directory including the previous versions as it also contains a log that stores the commit history so that we can roll back to history. Thanks to <a href="https://github.com/internetwache/GitTools">GitTools</a>, for automating the process.
 
 I had just got started with the program so it was going to be my first submission. I went to their bug bounty page, picked their email address, composed the report, hit 'Send' and..
 
+<img src="https://github.com/nerrorsec/nerrorsec.github.io/blob/master/assets/images/posts/why-i-hate-bug-bounty/address-not-found.png">
 ![address not found](https://github.com/nerrorsec/nerrorsec.github.io/blob/master/assets/images/posts/why-i-hate-bug-bounty/address-not-found.png)
 
 2. Where's my bounty?
@@ -36,7 +37,7 @@ I reported the bug but received no response. Later I found out that they silentl
 3. Submit it here
 
 This was a multi billion dollar company (I am sure you have heard its name). While I was not expecting to find much, I found a cookie based XSS which chained with CRLF injection was impactful. The only way I could submit the vulnerability report was the submission form they had on their website. I finished writing the report, hit 'Submit' and it didn't work. Guess what was going here?
-
+<img src="https://raw.githubusercontent.com/nerrorsec/nerrorsec.github.io/master/assets/images/posts/why-i-hate-bug-bounty/form-action.png">
 ![form action](https://github.com/nerrorsec/nerrorsec.github.io/blob/master/assets/images/posts/why-i-hate-bug-bounty/form-action.png)
 
 The vulnerability has possibly been fixed now.
