@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Know me
 sidebar_link: true
 ---
 
