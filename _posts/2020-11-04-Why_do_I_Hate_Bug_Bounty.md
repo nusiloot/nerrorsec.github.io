@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I Hate Bug Bounty?"
+title: "Why do I Hate Bug Bounty?"
 categories:
   - Blog
 tags:
