@@ -60,6 +60,7 @@ sidebar_link: true
   <div class="row">
   <div class="column">
     <img src="https://nirajkhatiwada.com.np/assets/images/acknowledgements/asrc.png" alt="Samsung" style="width:200px;height:200px;">
+    and more.
   </div>
 </div>
 </p>
