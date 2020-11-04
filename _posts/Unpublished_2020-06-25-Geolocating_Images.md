@@ -1,4 +1,12 @@
-
+---
+layout: post
+title: "Geolocating Images"
+categories:
+  - Blog
+tags:
+  - linux
+last_modified_at: 2020-05-03
+---
 
 This is just a summary of how images can be geolocated. <a target="_blank" href="https://tryhackme.com/room/geolocatingimages">Click here</a> for hands on detailed exercise on geolocating images.
 
