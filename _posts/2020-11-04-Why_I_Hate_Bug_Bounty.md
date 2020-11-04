@@ -8,12 +8,9 @@ tags:
 last_modified_at: 2020-11-04
 ---
 
-Hi! I am Niraj Khatiwada a.k.a nerrorsec. I had been actively participating in bug bounty programs since October, 2018 until I could not get over burnout in October 2019. During this time span I got to experience a lot, met some new people and learned new things. From knowing nothing about hacking, wandering around the internet, to being able to hack for good, it is all a fun journey for me.
+Hi! I am Niraj Khatiwada a.k.a nerrorsec. I used to be a bug bounty hunter. Now, I am a security researcher at <a href="https://nassec.io/">Nassec</a>. I had been actively participating in bug bounty programs from October, 2018 to October 2019. In Oct, 2019 I couldn’t get over burnout caused by bug bounty and decided to take a break from it. Once I took a break from bug bounty I’ve learned new things, met new people and experienced cyber security in a different way. From knowing nothing about hacking, wandering around the internet, to being able to hack for good, it is all a fun journey for me.
 
-Actually, I don't hate bug bounty completely. Like many other bug bounty hunters, it has impacted my life in a couple different ways as well, one of the notable being, me landing a job as a Penetration Tester.
-
-Both bug bounty hunters and the companies benefit from bug bounty programs. Still at times I get demotivated from bug bounties and I try to distance myself from it for a long time. And I am sure a lot of you reading this have experienced something similar at some point. Below are some of my experiences that demotivates me from bug bounty.
-
+Actually, I don't hate bug bounty completely. Like many other bug bounty hunters, it has impacted my life in various ways. One of the most notable impacts being me landing a job as a security researcher. Both bug bounty hunters and companies benefit from bug bounty programs. Still at times I get demotivated from bug bounties and I try to distance myself from it for a long time. And I am sure many of you reading this writeup have experienced something similar at some point. Below are some of my experiences that demotivates me from bug bounty.
 
 ### Start a bug bounty program (coz everybody's doin')
 
@@ -57,3 +54,6 @@ Like me, don't get disappointed though. There’re absolutely incredible public 
 
 I didn't see it coming in the past so I completely stopped bug bounty hunting.
 Hopefully, I will be back soon so that I can do more writeups, haha. If you’ve similar experiences do share it in the comment below.
+
+![](https://media.giphy.com/media/dAbwIpLeH9yEeYXnRw/giphy.gif)
+<img src="https://media.giphy.com/media/dAbwIpLeH9yEeYXnRw/giphy.gif">
