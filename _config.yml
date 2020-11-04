@@ -16,7 +16,7 @@ baseurl:          '/'
 
 author:
   name:           'nslcrew'
-  url:            https://www.facebook.com/nslcrew
+  url:            \#
 
 paginate:         5
 # paginate_path:    '/page:num'
