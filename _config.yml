@@ -37,3 +37,6 @@ sidebar_home_link:  true
 # Comments
 disqus:
   shortname: nirajkhatiwada-com-np
+  
+# Analytics
+google_analytics: G-0S0Q25SFM9
