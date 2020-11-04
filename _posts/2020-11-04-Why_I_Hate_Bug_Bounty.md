@@ -36,8 +36,8 @@ I reported the bug but received no response. Later I found out that they had fix
 3. Submit it here
 
 This was a multi billion dollar company (I am sure you have heard its name). While I was not expecting to find much, I found a cookie based XSS which chained with CRLF injection was impactful. The only way I could submit the vulnerability report was the submission form they had on their website. I finished writing the report, hit 'Submit' and it didn't work. Guess what was going here?
+
 <img src="https://raw.githubusercontent.com/nerrorsec/nerrorsec.github.io/master/assets/images/posts/why-i-hate-bug-bounty/form-action.png">
-![form action](https://github.com/nerrorsec/nerrorsec.github.io/blob/master/assets/images/posts/why-i-hate-bug-bounty/form-action.png)
 
 The vulnerability has possibly been fixed now.
 
