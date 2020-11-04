@@ -27,7 +27,7 @@ I had just got started with the program so it was going to be my first submissio
 
 Another day, another target. This target with a public bug bounty program would send a 6 digit code for password reset however it was lacking rate limitation meaning we could take over any account by brute forcing the 6 digit code.
 
-Similar Writeup: <a href="https://www.freecodecamp.org/news/responsible-disclosure-how-i-could-have-hacked-all-facebook-accounts-f47c0252ae4d/">Click to read!</a
+Similar Writeup: <a href="https://www.freecodecamp.org/news/responsible-disclosure-how-i-could-have-hacked-all-facebook-accounts-f47c0252ae4d/">Click to read!</a>
 
 I reported the bug but received no response. Later I found out that they had fixed it.
 
