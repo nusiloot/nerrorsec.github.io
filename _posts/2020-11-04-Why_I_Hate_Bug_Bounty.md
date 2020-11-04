@@ -28,7 +28,7 @@ Similar Writeup: <a href="https://www.freecodecamp.org/news/responsible-disclosu
 
 I reported the bug but received no response. Later I found out that they had fixed it.
 
-![gif](https://media.giphy.com/media/xTiTnee66Td0PWHPQQ/giphy.gif)
+<img src="https://media.giphy.com/media/xTiTnee66Td0PWHPQQ/giphy.gif">
 
 ### Submit it here
 
@@ -48,12 +48,11 @@ bypass it by submitting an email address as: someone@x.edu.domain.com (RegEx ¯\
 
 But they never responded to those reports.
 
-![](https://media.giphy.com/media/3ofT5ECt8BGlq2GF6o/giphy.gif)
+<img src="https://media.giphy.com/media/3ofT5ECt8BGlq2GF6o/giphy.gif">
 
 Like me, don't get disappointed though. There’re absolutely incredible public bug bounty programs that reward your efforts rightly. But, if you are just getting started with bug bounties keep in mind that these things can happen. Burnout is an important thing to consider too. It helps you see things differently.
 
 I didn't see it coming in the past so I completely stopped bug bounty hunting.
 Hopefully, I will be back soon so that I can do more writeups, haha. If you’ve similar experiences do share it in the comment below.
 
-![](https://media.giphy.com/media/dAbwIpLeH9yEeYXnRw/giphy.gif)
-<img src="https://media.giphy.com/media/dAbwIpLeH9yEeYXnRw/giphy.gif">
+<img src="https://media.giphy.com/media/1oKIP5NfWhSGaeWlEP/giphy.gif">
