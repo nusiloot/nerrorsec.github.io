@@ -5,7 +5,7 @@ categories:
   - Blog
 tags:
   - bugbounty
-last_modified_at: 2020-11-04
+last_modified_at: 2020-11-06
 ---
 
 Hi! I am Niraj Khatiwada a.k.a nerrorsec. I used to be a bug bounty hunter. Now, I am a security researcher at <a href="https://nassec.io/">Nassec</a>. I had been actively participating in bug bounty programs from October, 2018 to October 2019. In Oct, 2019 I couldn’t get over burnout caused by bug bounty and decided to take a break from it. Once I took a break from bug bounty I’ve learned new things, met new people and experienced cyber security in a different way. From knowing nothing about hacking, wandering around the internet, to being able to hack for good, it is all a fun journey for me.
@@ -44,7 +44,8 @@ Now with all the above incidents I wanted to check how this company handled thei
 bug. They responded after some days and it went all good. So, in the span of next 3 days, I reported them other bugs
 including Stored and DOM XSS, Information Disclosure and functionality bypasses. I don't remember the bugs at the moment but one of them was,
 the intended input was an educational institute domain email, something like: someone@domain.edu and I could
-bypass it by submitting an email address as: someone@x.edu.domain.com (RegEx ¯\\_(ツ)_/¯)
+bypass it by submitting an email address as: someone@x.edu.domain.com
+(RegEx ¯\\_(ツ)_/¯)
 
 But they never responded to those reports.
 
