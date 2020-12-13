@@ -26,12 +26,16 @@ sidebar_link: true
 <p class="message">
   <center><h2>Certifications</h2></center>
   <div class="row">
-  <div class="column">
-    <img src="https://training.fortinet.com/pluginfile.php/1/badges/badgeimage/25/f1" alt="Samsung" style="width:100px;height:100px;" onclick="javascript:window.location='https://nirajkhatiwada.com.np/assets/images/certifications/NSE_1_Certificate.pdf';">
+          <div class="column">
+    <img src="https://assets.pentesterlab.com/logo_m.png" alt="Pentesterlab" style="width:100px;height:100px;" onclick="javascript:window.location='https://pentesterlab.com/profile/nerrorsec';"> 
   </div>
   <div class="column">
-    <img src="https://training.fortinet.com/pluginfile.php/1/badges/badgeimage/24/f1" alt="Samsung" style="width:100px;height:100px;" onclick="javascript:window.location='https://nirajkhatiwada.com.np/assets/images/certifications/NSE_2_Certificate.pdf';"> 
+    <img src="https://training.fortinet.com/pluginfile.php/1/badges/badgeimage/25/f1" alt="Fortinet" style="width:100px;height:100px;" onclick="javascript:window.location='https://nirajkhatiwada.com.np/assets/images/certifications/NSE_1_Certificate.pdf';">
   </div>
+  <div class="column">
+    <img src="https://training.fortinet.com/pluginfile.php/1/badges/badgeimage/24/f1" alt="Fortinet" style="width:100px;height:100px;" onclick="javascript:window.location='https://nirajkhatiwada.com.np/assets/images/certifications/NSE_2_Certificate.pdf';"> 
+  </div>
+
   </div>
 </p>
 
